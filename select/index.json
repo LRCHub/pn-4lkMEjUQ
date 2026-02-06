@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "距離。",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-06T08:27:29.305833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "Cheer Chen",
+      "has_synced": true,
+      "path": "select/01_距離_Cheer_Chen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "劉沁",
+      "has_synced": false,
+      "path": "select/02_距離_劉沁.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/03_距離_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "距離 (Live 版)",
+      "artist": "Cheer Chen",
+      "has_synced": false,
+      "path": "select/04_距離_(Live_版)_Cheer_Chen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/05_距離_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "劉若英",
+      "has_synced": false,
+      "path": "select/06_距離_劉若英.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "距離(好久好久)",
+      "artist": "劉若英",
+      "has_synced": false,
+      "path": "select/07_距離(好久好久)_劉若英.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/08_距離_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "Chen, Cheer",
+      "has_synced": true,
+      "path": "select/09_距離_Chen,_Cheer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "吳雨霏",
+      "has_synced": false,
+      "path": "select/10_距離_吳雨霏.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "竹仲絵里",
+      "has_synced": false,
+      "path": "select/11_距離_竹仲絵里.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "距離 [Live]",
+      "artist": "陳綺貞",
+      "has_synced": false,
+      "path": "select/12_距離_[Live]_陳綺貞.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "林俊杰",
+      "has_synced": true,
+      "path": "select/13_距離_林俊杰.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "距離",
+      "artist": "JJ Lin 林俊傑",
+      "has_synced": true,
+      "path": "select/14_距離_JJ_Lin_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "距離（好久好久）",
+      "artist": "光良",
+      "has_synced": false,
+      "path": "select/15_距離(好久好久)_光良.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "距離 (Distance)",
+      "artist": "陳綺貞 (Cheer Chen)",
+      "has_synced": false,
+      "path": "select/16_距離_(Distance)_陳綺貞_(Cheer_Chen).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "距離。",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_距離。_春猿火.txt"
+    }
+  ]
+}
